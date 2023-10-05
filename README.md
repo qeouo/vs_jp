@@ -1,6 +1,6 @@
 # vs_jp
 
-Void Stranger の非公式日本語化パッチです。
+Void Stranger の非公式日本語化パッチです。自己責任でよろしく
 
 ## vs_jp_104a 公開(2023/10/6)
 (https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_104a.exe)
