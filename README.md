@@ -2,7 +2,7 @@
 
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく
 
-## vs_jp_104a 公開(2023/10/6)
+## vs_jp_105a 公開(2023/10/7)
 (https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105a.exe)
 
 Void Stranger 1.0.5 に対応。  
