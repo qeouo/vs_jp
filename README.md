@@ -6,9 +6,9 @@ Void Stranger の非公式日本語化パッチです。自己責任でよろし
 ## vs_jp_105b 公開(2023/10/9)
 (https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105b.exe)
  
-メインテキスト(夢)の日本語を一通り修正。
-エンディングでクラッシュしていた問題修正。
-日本語フォントのyオフセットを1ドット上に修正。
+メインテキスト(夢)の日本語を一通り修正。  
+エンディングでクラッシュしていた問題修正。  
+日本語フォントのyオフセットを1ドット上に修正。  
 
 ## vs_jp_105a 公開(2023/10/7)
 (https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105a.exe)
