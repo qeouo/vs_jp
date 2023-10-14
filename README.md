@@ -2,8 +2,12 @@
 
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
 何かあったらこちらまで(https://twitter.com/qEouo)
+## vs_jp_105e(2023/10/14)
+(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105e.exe)  
+全テキストに目を通した。  
+日本語改行処理修正。  
+
 ## vs_jp_105d(2023/10/11)
-(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105d.exe)  
 3人目のテキストを修正。 
 
 ## vs_jp_105c(2023/10/9)
