@@ -1,9 +1,17 @@
 # vs_jp
 
+最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105g.exe)  
+  
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
-何かあったらこちらまで(https://twitter.com/qEouo)
+何かあったらこちらまで(https://twitter.com/qEouo)  
+  
+日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。  
+## vs_jp_105g(2023/10/25)
+夢1のテキストを修正。  
+カンマとピリオドを半角に、次の文字をスペースに統一。文字送りが正常になったはず。  
+ついでに感嘆符も半角に統一。  
+
 ## vs_jp_105f(2023/10/18)
-(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_105f.exe)  
 改行処理の不具合でテキストが進まなくなるバグを修正。 
 
 ## vs_jp_105e(2023/10/14)
