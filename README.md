@@ -6,7 +6,7 @@ Void Stranger の非公式日本語化パッチです。自己責任でよろし
 何かあったらこちらまで(https://twitter.com/qEouo)  
   
 日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。  
-## vs_jp_106a(2023/11/19)
+## vs_jp_106b(2023/11/19)
 Cif関連の翻訳漏れを修正。  
 その他微修正。  
 ## vs_jp_106a(2023/11/05)
