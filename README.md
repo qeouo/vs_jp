@@ -6,7 +6,7 @@ Void Stranger の非公式日本語化パッチです。自己責任でよろし
 何かあったらこちらまで(https://twitter.com/qEouo)  
   
 日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。  
-## vs_jp_106c(2023/12/03)
+## vs_jp_106c(2024/01/03)
 今更だけど人物名は全部原語のアルファベット表記に戻した。  
 Void Lord も Lord *** 表記に変更。  
 その他微修正。  
