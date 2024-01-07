@@ -1,13 +1,14 @@
 # vs_jp
 
-最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_106g.exe)  
+最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_106h.exe)  
   
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
 何かあったらこちらまで(https://twitter.com/qEouo)  
   
 日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。  
-## vs_jp_106g(2024/01/07)  
-Monのヒントメッセージを修正。   
+## vs_jp_106h(2024/01/07)  
+Monのヒントメッセージを修正。
+人物名が間違っていたのを修正。  
 ## vs_jp_106f(2024/01/07)  
 一部ヒントメッセージを修正。     
 ## vs_jp_106e(2024/01/06)  
