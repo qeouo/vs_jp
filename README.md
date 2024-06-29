@@ -1,6 +1,6 @@
 # vs_jp
 
-最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_110h.exe)  
+最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111.exe)  
   
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
 何かあったらこちらまで(https://twitter.com/qEouo)  
