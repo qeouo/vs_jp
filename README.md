@@ -1,11 +1,14 @@
 # vs_jp
 
-最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111.exe)  
+最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111a.exe)  
   
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
 何かあったらこちらまで(https://twitter.com/qEouo)  
   
 日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。
+## vs_jp_111a(2024/7/1)  
+Ninnie だけ名前がカタカナ表記になっていたのをアルファベット表記に修正。
+
 ## vs_jp_111(2024/6/29)  
 ver1.1.1に対応  
 
