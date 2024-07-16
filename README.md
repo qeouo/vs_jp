@@ -3,7 +3,7 @@
 最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111c.exe)  
   
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
-何かあったらこちらまで(https://twitter.com/qEouo)  
+何かあったらこちらまで(https://x.com/qEouo)  
   
 日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。
 ## vs_jp_111c(2024/7/14)  
