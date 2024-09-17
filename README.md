@@ -1,11 +1,15 @@
 # vs_jp
 
-最新版(https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111e.exe)  
+最新版→https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_111e.exe  
   
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
-何かあったらこちらまで(https://x.com/qEouo)  
+何かあったらこちらまで https://x.com/qEouo  
   
-日本語フォントに道玄坂12(http://jikasei.me/font/kh-dotfont/ )を使用しています。
+日本語フォントに  
+- 道玄坂12 http://jikasei.me/font/kh-dotfont/
+- 美咲フォント https://littlelimit.net/misaki.htm
+
+を使用しています。
 ## vs_jp_111e(2024/9/17)  
 姉妹表記修正。  
 ミニゲームの文面修正。
