@@ -1,6 +1,6 @@
 # vs_jp
 
-最新版→ https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_112.exe  
+最新版→ https://raw.githubusercontent.com/qeouo/vs_jp/master/vs_jp_113.exe  
 
 Void Stranger の非公式日本語化パッチです。自己責任でよろしく  
 何かあったらこちらまで https://x.com/qEouo  
@@ -10,6 +10,9 @@ Void Stranger の非公式日本語化パッチです。自己責任でよろし
 - 美咲フォント https://littlelimit.net/misaki.htm
 
 を使用しています。  
+
+## vs_jp_113(2025/4/29)  
+ver1.1.3に対応。 
 
 ## vs_jp_112(2025/4/29)  
 ver1.1.2に対応。  
